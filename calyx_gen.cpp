@@ -22,4 +22,5 @@ int main(){
     cout << "Beginning generation.\n";
     result = die(20);
     calyx_max = calyx_tot(result);
+    spell_lv_max = max_lv(result);
 }
