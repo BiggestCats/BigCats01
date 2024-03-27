@@ -7,6 +7,6 @@ int main()
     cout << "The world is a motherfucker.\n";
     cout << "9 billion dead cops\n";
     cout << "kill them all\n";
-    cout << "I am jumja stick\n";
+    cout << "I am trash man\n";
     return 0;
 }
